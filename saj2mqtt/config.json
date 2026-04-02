@@ -6,8 +6,7 @@
   "arch": ["aarch64", "armv7", "amd64"],
   "startup": "services",
   "boot": "auto",
-  "ports": {},
-  "ports_description": {},
+  "image": "ghcr.io/saj-solar/saj2mqtt:latest",
   "options": {
     "saj_host": "192.168.178.97",
     "saj_port": 8899,
@@ -25,4 +24,3 @@
     "mqtt_pass": "str"
   }
 }
-
