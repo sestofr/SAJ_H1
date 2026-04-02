@@ -1,1 +1,4 @@
-
+{
+  "name": "SAJ2MQTT",
+  "description": "Bridge for SAJ H1 inverter to MQTT"
+}
